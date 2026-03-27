@@ -1,0 +1,19 @@
+Task 2 Questionnaire
+
+
+In software development requirement types are Functional, Usability and data integrity
+The Function of the software which the required in this task that the system accepts a input  from 0-100 and outputs the grade according to the set of benchmarks like 85 to 100 is High Distinction etc. Another functionality it has that it cannot take strings(or letters) or that is what the system calls "invalid" this is done by the If the input is more than 100 or less than 0
+
+Usability is  also a requirement so to access other functionality I create a menu to select functions either school calculator or regular calculator. 
+Data integrity is the system ensuring that only numeric values are processed to prevent a program crash
+
+Task 4
+a. Languages such as HTML as the structure making the website this is what you will see on the screen, CSS is the aesthetic styler making the website a bit more pleasing to the eyes, JavaScript is the functionality that makes HTML elements interactive and actually do something, SQL is a Database management and used for inventory tracking and easy access to data, Phyton is basically JavaScript just simpler, easy to understand and is used in Data science, AI and Analysis projects.
+
+b. Business management software. One of the common software that is used in business especially in Finance or overall business management in accounting, payroll and inventory is MYOB stands as "Mind your own business" This is developed by Craig Winkler and Bradshofer
+
+MYOB mostly used like REST-based API for cloud and desktop integrations and includes C# .Net, VB.NET, Phyton, PHP, RUBY and Node.js according atleast to a Quora comments discussing languages used when building a accounting software.
+
+https://www.myob.com/au/about
+https://en.wikipedia.org/wiki/MYOB_(company)
+https://www.quora.com/Which-programming-languages-should-I-learn-if-I-want-to-build-an-accounting-software-like-xero-except-simpler
